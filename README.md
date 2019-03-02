@@ -1,6 +1,6 @@
 # PythonNumericalDemos
 
-A collection of Python demos for spaital data analytics, geostatistics and machine learning methods.
+A collection of Python demos for spatial data analytics, geostatistics and machine learning methods.
 
 I use these demonstrations for:
 
