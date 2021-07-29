@@ -6,6 +6,8 @@
 
 A collection of Python demos for spatial data analytics, geostatistics and machine learning methods.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeostatsGuy/PythonNumericalDemos/HEAD)
+
 I use these demonstrations for:
 
 1. in-lecture walkthroughs 
