@@ -48,7 +48,7 @@ Alright, that is enough of my ranting. Especially, since I haven't even introduc
 
 #### The Author:
 
-### Michael Pyrcz, Associate Professor, University of Texas at Austin 
+### Michael Pyrcz, Professor, The University of Texas at Austin 
 *Novel Data Analytics, Geostatistics and Machine Learning Subsurface Solutions*
 
 With over 17 years of experience in subsurface consulting, research and development, Michael has returned to academia driven by his passion for teaching and enthusiasm for enhancing engineers' and geoscientists' impact in subsurface resource development. 
