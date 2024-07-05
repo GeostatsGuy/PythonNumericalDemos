@@ -71,7 +71,7 @@ While I have more than 20 years experience coding in FORTRAN, C++ and VBA, I jus
 
 Alright, that is enough of my ranting. Especially, since I haven't even introduced myself yet!
 
-#### The Author:
+#### The Repository Author:
 
 ### Michael Pyrcz, Professor, The University of Texas at Austin 
 *Novel Data Analytics, Geostatistics and Machine Learning Subsurface Solutions*
