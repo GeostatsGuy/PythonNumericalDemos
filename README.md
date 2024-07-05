@@ -2,7 +2,7 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
 
-# PythonNumericalDemos: Educational Data Science Demonstrations in Python Repository (0.0.1)
+# PythonNumericalDemos: Educational Data Science Python Demonstrations Repository (0.0.1)
 
 ## Professor Michael Pyrcz, Professor, The University of Texas at Austin
 
@@ -10,7 +10,7 @@ A collection of Python demos for spatial data analytics, geostatistics and machi
 
 Please cite as:
 
-Pyrcz, Michael J. (2021). PythonNumericalDemos: Educational Data Science Demonstrations Repository (0.0.1). Zenodo. https://doi.org/10.5281/zenodo.5564966
+Pyrcz, Michael J. (2021). PythonNumericalDemos: Educational Data Science Python Demonstrations Repository (0.0.1). Zenodo. https://doi.org/10.5281/zenodo.5564966
 
 [![DOI](https://zenodo.org/badge/106843586.svg)](https://zenodo.org/doi/10.5281/zenodo.5564966)
 
