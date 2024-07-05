@@ -4,7 +4,7 @@
 
 # PythonNumericalDemos: Educational Data Science Python Demonstrations Repository (0.0.1)
 
-## Professor Michael Pyrcz, Professor, The University of Texas at Austin
+## Michael Pyrcz, Professor, The University of Texas at Austin
 
 A collection of Python demos for spatial data analytics, geostatistics and machine learning methods.
 
