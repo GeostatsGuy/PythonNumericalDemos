@@ -8,7 +8,7 @@
 
 A collection of Python demos for spatial data analytics, geostatistics and machine learning methods.
 
-# Cite As:
+### Cite As:
 
 Pyrcz, Michael J. (2021). PythonNumericalDemos: Educational Data Science Python Demonstrations Repository (0.0.1). Zenodo. https://doi.org/10.5281/zenodo.5564966
 
