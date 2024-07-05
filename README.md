@@ -2,7 +2,7 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
 
-# PythonNumericalDemos: Educational Data Science Demonstrations Repository (1.0.0)
+# PythonNumericalDemos: Educational Data Science Demonstrations Repository (0.0.1)
 
 ## Professor Michael Pyrcz, The University of Texas at Austin
 
