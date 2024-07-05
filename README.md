@@ -2,9 +2,9 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
 
-# PythonNumericalDemos: Educational Data Science Demonstrations Repository (0.0.1)
+# PythonNumericalDemos: Educational Data Science Demonstrations in Python Repository (0.0.1)
 
-## Professor Michael Pyrcz, The University of Texas at Austin
+## Professor Michael Pyrcz, Professor, The University of Texas at Austin
 
 A collection of Python demos for spatial data analytics, geostatistics and machine learning methods.
 
