@@ -12,6 +12,8 @@ Please cite as:
 
 Pyrcz, Michael J. (2021). PythonNumericalDemos: Educational Data Science Demonstrations Repository (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5564991
 
+[![DOI](https://zenodo.org/badge/106843586.svg)](https://zenodo.org/doi/10.5281/zenodo.5564966)
+
 I use these demonstrations for:
 
 1. in-lecture walkthroughs 
