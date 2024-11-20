@@ -1,0 +1,20 @@
+name: geostatspy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.8
+  - jupyterlab
+  - matplotlib-base
+  - pip
+  - scipy
+  - statsmodels
+  - numpy
+  - numba
+  - pandas
+  - geopandas
+  - nb_conda
+  - ipywidgets
+  - pip:
+    - geostatspy
+prefix: /home/andrew/anaconda3/envs/geostatspy

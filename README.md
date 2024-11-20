@@ -37,6 +37,8 @@ The required datasets are available in the [GeoDataSets](https://github.com/Geos
 
 #### Repository Summary
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeostatsGuy/PythonNumericalDemos/HEAD)
+
 I use these demonstrations for:
 
 1. in-lecture walkthroughs 
